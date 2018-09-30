@@ -1,7 +1,8 @@
 # Simple Hugo website for my wedding
 
-To Do 
+https://clever-pasteur-59d733.netlify.com/
 
+To Do 
 	- Different Pics
-	- Deploy with Netlify
+	- Style Adjust
 
