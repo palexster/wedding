@@ -1,1 +1,15 @@
-The wedding will be held at willow witt ranch on the twenty first of september, 2019. We have reserved the ranch for three days Please RSVP by following the link in the navigation menu. 
+# When
+
+Friday, Sep 28 - Sunday, Sep 30 - 2019
+
+# Where
+
+Willow Witt Ranch 
+
+# Accommodation 
+
+There is a large camping area where you can pitch a tent and hang out for the weekend. 
+
+
+
+

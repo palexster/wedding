@@ -2,13 +2,11 @@
 
 {{ partial "navbar" . }} 
 
-<div align="center" class="w3-container w3-padding-64 w3-blue-grey" id="us">
-   <div align="left" class="w3-content">
+<div class="w3-container w3-padding-64 w3-blue-grey" id="us"> 
+	<div class="w3-content w3-large" style="font-family: 'Open Sans', sans-serif">
 		<h1>The Wedding</h1>
 		{{ .Content }}
-		{{ partial "maps" . }} 
-   </div>
+	</div>
+	{{ partial "maps" . }} 
 </div>
-
-
 </html>
