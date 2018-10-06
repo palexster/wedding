@@ -1,6 +1,15 @@
+:root {
+  /* color definitions */
+  --primary: #bccad6;
+  --secondary: #8d9db6;
+  --tertiary: #0A49F5
+  --sub1:  #667292;
+  --sub2: #f1e3dd;
+}
 #map {
-    width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+    width: 50%;
+    height: 300px;
   }
+body {
+  background: var(--primary)
+}
