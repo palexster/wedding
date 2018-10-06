@@ -33,6 +33,6 @@ window.onload = function() {
 	// document.getElementById('map').style.top = '50%';
 	document.getElementById('map').style.left = '50%';
 	document.getElementById('map').style.marginLeft = -set_width+'px';
-	//document.getElementById('map').style.marginTop = -set_height+'px';
+	document.getElementById('map').style.marginBottom = set_height+'px';
     };
     
