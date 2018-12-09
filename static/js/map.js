@@ -14,14 +14,14 @@ function myMap() {
 		title: 'Willow Witt Ranch',
 	});
 	resize();
-	//google.maps.event.addDomListener(window, 'resize',
-	//resize);
+	google.maps.event.addDomListener(window, 'resize',
+	resize);
 	path_bounds = new google.maps.LatLngBounds();
 };
-// function resize() {
-//  map.setCenter(wwitt);
-//  map.fitBounds(path_bounds);
-// };
+function resize() {
+ map.setCenter(wwitt);
+ map.fitBounds(path_bounds);
+};
 //window.onload = function() {
 //	var div_width = document.getElementById('map').offsetWidth;
 //	var div_height = document.getElementById('map').offsetHeight;
