@@ -12,6 +12,7 @@ function myMap() {
 		position: wwitt,
 		map: map, 
 		title: 'Willow Witt Ranch',
+		label: { color: '#00aaff', fontWeight: 'bold', fontSize: '14px', text: 'Willow Witt Ranch' }
 	});
 	resize();
 	google.maps.event.addDomListener(window, 'resize',
@@ -22,17 +23,17 @@ function resize() {
  map.setCenter(wwitt);
  map.fitBounds(path_bounds);
 };
-//window.onload = function() {
-//	var div_width = document.getElementById('map').offsetWidth;
-//	var div_height = document.getElementById('map').offsetHeight;
-//	var set_width = div_width/2;
-//	var set_height = div_height/2;
-//	document.getElementById('map').style.height = div_height+'px';
-//	document.getElementById('map').style.width = div_width+'px';
-//	document.getElementById('map').style.position = 'absolute';
-//	// document.getElementById('map').style.top = '50%';
-//	document.getElementById('map').style.left = '50%';
-//	document.getElementById('map').style.marginLeft = -set_width+'px';
-//	document.getElementById('map').style.marginBottom = set_height+'px';
-//    };
-//    
+window.onload = function() {
+	var div_width = document.getElementById('map').offsetWidth;
+	var div_height = document.getElementById('map').offsetHeight;
+	var set_width = div_width/2;
+	var set_height = div_height/2;
+	document.getElementById('map').style.height = div_height+'px';
+	document.getElementById('map').style.width = div_width+'px';
+	document.getElementById('map').style.position = 'absolute';
+	document.getElementById('map').style.top = '50%';
+	document.getElementById('map').style.left = '50%';
+	document.getElementById('map').style.marginLeft = -set_width+'px';
+	document.getElementById('map').style.marginBottom = set_height+'px';
+    };
+    

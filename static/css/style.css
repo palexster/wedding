@@ -1,16 +1,11 @@
 :root {
   /* color definitions */
-  --primary: #bccad6;
+  --primary: #cec8c8;
   --secondary: #8d9db6;
   --tertiary: #0A49F5
   --sub1:  #667292;
   --sub2: #f1e3dd;
 }
-#map {
-    max-width: 100%;
-    height: 300px;
-    box-align: center;
-  }
 body {
   background: var(--primary)
 }
@@ -18,11 +13,15 @@ img {
     max-width: 100%;
     max-height: 100%;
 }
-
 img[src~="venue"] {
   max-width: 100%;
   align-content: center;
 }
+#map {
+    max-width: 100%;
+    box-align: center;
+    display:inline-block;
+  }
 .mySlides {display:none}
 .w3-left, .w3-right, .w3-badge {cursor:pointer}
 .w3-badge {height:10px;width:10px;padding:0}
