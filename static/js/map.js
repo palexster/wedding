@@ -18,6 +18,10 @@ function myMap() {
 			text: 'Willow Witt Ranch'
 			}
 	});
+	function resize() {
+		map.setCenter(wwitt);
+		map.fitBounds(path_bounds);
+	   };
 	resize();
 	google.maps.event.addDomListener(window, 'resize',
 	resize);
@@ -29,16 +33,12 @@ function myMap() {
 		panel: document.getElementById('right-panel')
 	});	
 };
-function resize() {
- map.setCenter(wwitt);
- map.fitBounds(path_bounds);
-};
 window.onload = function() {
 	var div_width = document.getElementById('map').offsetWidth;
 	var div_height = document.getElementById('map').offsetHeight;
 	var set_width = div_width/2;
-	var set_height = div_height/2;
-	document.getElementById('map').style.height = div_height+'px';
+	var set_height = div_height/2;ew
+	document.getElementById('map').style.height = div_height+'px';ew
 	document.getElementById('map').style.width = div_width+'px';
 	document.getElementById('map').style.position = 'absolute';
 	document.getElementById('map').style.top = '50%';
