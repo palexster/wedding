@@ -35,3 +35,33 @@ img[src~="venue"] {
   max-width: 100%;
   position: relative;
 }
+
+.w3-content .welcome  h1, h2, h3 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+}
+
+.w3-content h1, h2, h3 {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+}
+
+.w3-content h1 {
+  font-size: 40px
+}
+
+.w3-content h2 {
+  font-size: 30px
+}
+
+.w3-content h3 {
+  font-size: 26px
+}
+
+a {
+  font-family: 'Amatic SC', cursive; 
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+}

@@ -31,5 +31,15 @@ var wwitt = {lat: 42.281011,lng:  -122.570865};
   var marker1 = createMarker({
   position: wwitt,
   map: map
-  }, "<h2>Willow Witt Ranch</h2><p>658 Shale City Rd, Ashland, OR 97520</p>");
+  }, "<b>Willow Witt Ranch</b><p>658 Shale City Rd, Ashland, OR 97520</p>");
+
+  var marker2 = createMarker({
+    position: new google.maps.LatLng(42.186728, -122.663028),
+    map: map
+  }, "<b>Ashland Hills Hotel</b>");
+
+  var marker3 = createMarker({
+    position: new google.maps.LatLng(42.184810, -122.662416),
+    map: map
+  }, "<b>Best Western Windsor Inn</b>");
 }
