@@ -28,41 +28,10 @@ function myMap() {
 		map: map,
 		panel: document.getElementById('right-panel')
 	});	
-
-	directionsDisplay.addListener('directions_changed', function () {
-		computeTotalDistance(directionsDisplay.getDirections());
-	});
-
-	displayRoute('Ashland, OR', wwitt, directionsService,
-		directionsDisplay);
 };
 function resize() {
  map.setCenter(wwitt);
  map.fitBounds(path_bounds);
-};
-function displayRoute(origin, destination, service, display) {
-	service.route({
-		origin: origin,
-		destination: destination,
-		waypoints: [{ location: 'Ashland, OR' }, { location: wwitt }],
-		travelMode: 'DRIVING',
-		avoidTolls: true
-	}, function (response, status) {
-		if (status === 'OK') {
-			display.setDirections(response);
-		} else {
-			alert('Could not display directions due to: ' + status);
-		}
-	});
-};
-function computeTotalDistance(result) {
-	var total = 0;
-	var myroute = result.routes[0];
-	for (var i = 0; i < myroute.legs.length; i++) {
-		total += myroute.legs[i].distance.value;
-	}
-	total = total / 1000;
-	document.getElementById('total').innerHTML = total + ' km';
 };
 window.onload = function() {
 	var div_width = document.getElementById('map').offsetWidth;
