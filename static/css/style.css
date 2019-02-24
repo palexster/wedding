@@ -17,11 +17,7 @@ img[src~="venue"] {
   max-width: 100%;
   align-content: center;
 }
-#map {
-    max-width: 100%;
-    box-align: center;
-    display:inline-block;
-  }
+
 .mySlides {display:none}
 .w3-left, .w3-right, .w3-badge {cursor:pointer}
 .w3-badge {height:10px;width:10px;padding:0}
@@ -31,3 +27,11 @@ img[src~="venue"] {
   height: 20px; 
   width: 20px;
  }
+
+.w3-container .map { 
+  overflow: scroll;
+  align-content: center;
+  height: 400px;
+  max-width: 100%;
+  position: relative;
+}

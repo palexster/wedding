@@ -4,7 +4,7 @@ function myMap() {
 var wwitt = {lat: 42.281011,lng:  -122.570865};
 	var mapOptions = {
     		center: new google.maps.LatLng(42.281011, -122.570865),
-    		zoom: 9,
+    		zoom: 10,
     		mapTypeId: google.maps.MapTypeId.HYBRID
 	};
 	var map = new google.maps.Map(document.getElementById("map"), mapOptions);
