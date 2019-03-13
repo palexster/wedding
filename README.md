@@ -4,6 +4,5 @@ https://jakeandheidi.com
 
 To Do:
 
-	- Fix map
-
+	- Different font 
 
