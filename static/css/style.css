@@ -37,33 +37,34 @@ img[src~="venue"] {
 }
 
 .w3-content .welcome h1 {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Libre';
   font-size: 60px;
 }
 
 .w3-content .welcome h2, h3 {
-  font-family: 'Averia Serif Libre', cursive; 
+  font-family: 'Prata'
 }
 
 .w3-content h1 {
-  font-family: 'Averia Serif Libre', cursive; 
+  font-family: 'Prata'; 
   font-size: 40px
 }
 
 .w3-content h2 {
-  font-family: 'Averia Serif Libre', cursive; 
+  font-family: 'Prata'; 
   font-size: 30px
 }
 
 .w3-content h3 {
-  font-family: 'Averia Serif Libre', cursive; 
+  font-family: 'Prata'; 
   font-size: 26px
 }
 
 a {
-  font-family:  'Averia Serif Libre', cursive;
+  font-family:  'Prata';
 }
 
 p {
-  font-family: 'EB Garamond', serif;
+  font-family: 'Lato', serif;
+  font-size: 20px
 }
