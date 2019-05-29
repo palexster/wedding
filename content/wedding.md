@@ -1,8 +1,14 @@
+---
+map: true
+---
+
 # When
 
 Friday, Sep 20 - Sunday, Sep 22 - 2019
 
 {{< add-cal >}} 
+
+Please RSVP at your earliest convenience. 
 
 # The Venu
 
@@ -14,11 +20,11 @@ Friday, Sep 20 - Sunday, Sep 22 - 2019
 
 ## Camping
 
-There is room for an unlimited number of tents at the Ranch. Sites are undevelopped and rustic. No fires are allowed, as it will be peak fire season. 
+There are unlimited rustic camping spots available at Willow-Witt where you can pitch your tent for the weekend at no cost, as we have the property from Friday through Sunday. There are two private outdoor showers and bathrooms in a central outdoor area, near a large outdoor kitchen.
 
 ## Hotels 
 
-There are a number of hotels right down the road from the Ranch: 
+The following hotels are in between the church and Willow-Witt, mention 'The VanCampen Wedding' for a courtesy rate. The hotels request booking least 6-weeks in advance for the discounted rate.
 
 <ul>
 <li>

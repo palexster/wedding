@@ -6,9 +6,11 @@
 	<div class="w3-content w3-large">
 		{{ .Content }}
 	</div>	
-	<div class="w3-content">
+	{{ if .Params.map }}
+    <div class="w3-content">
 		{{ partial "maps" . }}
 	</div>
+	{{ end }}
 	<br></br>
 </div>
 </html>

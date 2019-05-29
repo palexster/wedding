@@ -1,6 +1,3 @@
-# Registry
+# [Registry](https://www.zola.com/registry/jakeandheidi)
 
-* [Most things](https://www.zola.com/wedding-planning/projects/drafts)
-* [Some special things](https://eastfork.com/apps/giftregistry/registry/76134)
-
-
+We welcome contributions to our newlywed life! We have designed a <a href="https://www.zola.com/registry/jakeandheidi" target="_blank">Registry</a> on Zola, a centralized registry webservice. 
