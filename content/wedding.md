@@ -20,7 +20,7 @@ Please RSVP at your earliest convenience.
 
 ## Camping
 
-There are unlimited rustic camping spots available at Willow-Witt where you can pitch your tent for the weekend at no cost, as we have the property from Friday through Sunday. There are two private outdoor showers and bathrooms in a central outdoor area, near a large outdoor kitchen.
+There are unlimited rustic camping spots available at Willow-Witt where you can pitch your tent for the weekend at no cost, as we have the property from Friday through Sunday. There are two private outdoor showers and bathrooms in a central outdoor area near a large outdoor kitchen.
 
 ## Hotels 
 

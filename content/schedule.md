@@ -5,6 +5,6 @@
  - 3:30-4 
     - Gather at Willow-Witt for appetizer and social hour
  - 5:00 
-    - Ourdoor dinner 
+    - Outdoor dinner 
  - 7:00 
-    - Dancy play time
+    - Hangout and dancing.
