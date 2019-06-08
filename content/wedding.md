@@ -16,6 +16,16 @@ Please RSVP at your earliest convenience.
 
 ![](/img/WillowWitt.png#venue)
 
+# Weather 
+
+The weather at Willow-Witt is available [here](https://www.google.com/search?q=willow+witt+weather&oq=willow+witt+weather&aqs=chrome..69i57j33.2829j0j7&sourceid=chrome&ie=UTF-8).
+
+The weather in Ashland is available [here](https://www.google.com/search?safe=off&ei=rCX7XLqdCqqB0wKq74Zo&q=ashland+weather&oq=ashland+weather&gs_l=psy-ab.3..0i71l8.0.0..11532...0.0..0.0.0.......0......gws-wiz.giVUzuEls_o).
+
+# Dress 
+
+Formal for the Church to casual at the ranch. I will probably change into a more comfortable shoe after church, the ground at Willow-Witt is uneven dirt/rocks. 
+
 # Accommodations
 
 ## Camping
