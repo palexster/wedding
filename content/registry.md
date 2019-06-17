@@ -1,3 +1,10 @@
-# [Registry](https://www.zola.com/registry/jakeandheidi)
 
-We welcome contributions to our newlywed life! We have designed a <a href="https://www.zola.com/registry/jakeandheidi" target="_blank">Registry</a> on Zola, a centralized registry webservice. 
+ Your love and support is the greatest gift of all. However, should you wish to help us celebrate with a gift, we are registered at East Fork Pottery and Zola. 
+
+## [East Fork Registry](https://eastfork.com/apps/giftregistry/registry/76134?sid=vtQbsrSQ6RGAMbuH7HdNbQ)
+
+![](/img/eastforkplate.jpg)
+
+## [Zola Registry](https://www.zola.com/registry/jakeandheidi)
+
+![](/img/quilt.jpeg)

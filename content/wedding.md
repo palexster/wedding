@@ -24,7 +24,7 @@ The weather in Ashland is available [here](https://www.google.com/search?safe=of
 
 # Dress 
 
-Formal for the Church to casual at the ranch. I will probably change into a more comfortable shoe after church, the ground at Willow-Witt is uneven dirt/rocks. 
+Formal for the Church to casual at the ranch. One would likely benifit from a more comfortable shoe at the ranch, as the ground at Willow-Witt is uneven dirt/rocks. 
 
 # Accommodations
 
