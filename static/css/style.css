@@ -52,7 +52,12 @@ img[src~="venue"] {
   width: 20px;
  }
 
-.w3-container .map { 
+.w3-container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.map { 
   overflow: scroll;
   align-content: center;
   height: 400px;
