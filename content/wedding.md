@@ -10,11 +10,23 @@ Friday, Sep 20 - Sunday, Sep 22 - 2019
 
 Please RSVP at your earliest convenience. 
 
-# The Venu
+# The Church
+
+The wedding ceremony will be at [Our Lady of the Mountain](https://ourladymt.org/) Catholic church.
+
+Location:
+
+    - 987 Hillview Drive, Ashland, OR 97520
+
+# The Ranch 
 
 <a href="https://willowwittranch.com/" target="_blank" style="font-family: 'Josefin Sans', sans-serif;">Willow Witt Ranch</a>
 
 ![](/img/WillowWitt.png#venue)
+
+# Dress 
+
+We could describe the right attire for this event as "dressy-casual". One would likely benefit from a more comfortable shoe at the ranch, as the ground at Willow-Witt is uneven dirt/rocks. Willow-Witt Ranch is at 5000 ft elevation, and may be up to 10 degrees cooler than Ashland on the day, it will be the eve of fall, so maybe bring an extra layer if you run cold.
 
 # Weather 
 
@@ -22,15 +34,11 @@ The weather at Willow-Witt is available [here](https://www.google.com/search?q=w
 
 The weather in Ashland is available [here](https://www.google.com/search?safe=off&ei=rCX7XLqdCqqB0wKq74Zo&q=ashland+weather&oq=ashland+weather&gs_l=psy-ab.3..0i71l8.0.0..11532...0.0..0.0.0.......0......gws-wiz.giVUzuEls_o).
 
-# Dress 
-
-Formal for the Church to casual at the ranch. One would likely benifit from a more comfortable shoe at the ranch, as the ground at Willow-Witt is uneven dirt/rocks. 
-
 # Accommodations
 
 ## Camping
 
-There are unlimited rustic camping spots available at Willow-Witt where you can pitch your tent for the weekend at no cost, as we have the property from Friday through Sunday. There are two private outdoor showers and bathrooms in a central outdoor area near a large outdoor kitchen.
+There are unlimited rustic camping spots available at Willow-Witt where you can pitch your tent for the weekend at no cost. We have the property Friday through Sunday. There are two outdoor, heated showers and bathrooms in a central outdoor area near a large outdoor kitchen.
 
 ## Hotels 
 
@@ -44,5 +52,6 @@ The following hotels are in between the church and Willow-Witt, mention 'The Van
 <a href="https://ashlandhillshotel.com/" target="_blank" style="font-family: 'Josefin Sans', sans-serif;">Ashland Hills Hotel</a>
 </li>
 </ul>
+
 
 # Locations
