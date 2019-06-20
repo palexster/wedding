@@ -30,9 +30,9 @@ We could describe the right attire for this event as "dressy-casual". One would 
 
 # Weather 
 
-The weather at Willow-Witt is available [here](https://www.google.com/search?q=willow+witt+weather&oq=willow+witt+weather&aqs=chrome..69i57j33.2829j0j7&sourceid=chrome&ie=UTF-8).
+[Check the weather](https://www.google.com/search?q=willow+witt+weather&oq=willow+witt+weather&aqs=chrome..69i57j33.2829j0j7&sourceid=chrome&ie=UTF-8) at Willow-Witt Ranch.
 
-The weather in Ashland is available [here](https://www.google.com/search?safe=off&ei=rCX7XLqdCqqB0wKq74Zo&q=ashland+weather&oq=ashland+weather&gs_l=psy-ab.3..0i71l8.0.0..11532...0.0..0.0.0.......0......gws-wiz.giVUzuEls_o).
+[Check the weather](https://www.google.com/search?safe=off&ei=rCX7XLqdCqqB0wKq74Zo&q=ashland+weather&oq=ashland+weather&gs_l=psy-ab.3..0i71l8.0.0..11532...0.0..0.0.0.......0......gws-wiz.giVUzuEls_o) in Ashalnd.
 
 # Accommodations
 
