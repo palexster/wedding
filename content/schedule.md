@@ -5,7 +5,7 @@ We are still working on a definitive schedule, but here is an outline of the flo
 ### Friday:
 
  - 5pm 
-    - Rehearsal Dinner at the Farmhouse (willow-witt). 
+    - Rehearsal Dinner at the Farmhouse (willow-witt), all are welcome, please RSVP. 
 
 ### Saturday:
 
@@ -16,9 +16,9 @@ We are still working on a definitive schedule, but here is an outline of the flo
  - 5:00 
     - Outdoor dinner 
  - 7:00 
-    - Hangout and dancing.
+    - Cake and dancing.
 
 ### Sunday: 
 
  - AM: 
-   - Leisurly breakfast with guests that are still around at the ranch.
+   - Leisurly breakfast with those that camped at the ranch. 
