@@ -65,34 +65,30 @@ img[src~="venue"] {
 }
 
 .w3-content .welcome h1 {
-  font-family: 'Libre';
-  font-size: 50px;
+  font-family: 'Prata';
+  font-size: 40px;
 }
 
-.w3-content .welcome h2, h3 {
+.w3-content .welcome h2, h3, p, li, ul, ol, code, a {
   font-family: 'Prata'
 }
 
 .w3-content h1 {
   font-family: 'Prata'; 
-  font-size: 40px
+  font-size: 33px
 }
 
 .w3-content h2 {
   font-family: 'Prata'; 
-  font-size: 30px
+  font-size: 24px
 }
 
 .w3-content h3 {
   font-family: 'Prata'; 
-  font-size: 26px
+  font-size: 20px
 }
 
-a {
-  font-family:  'Prata';
-}
-
-p, li, ul, ol {
+p, li, ul, ol, code, a {
   font-family: 'Lato', serif;
-  font-size: 20px;
+  font-size: 18px;
 }

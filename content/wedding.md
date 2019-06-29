@@ -18,15 +18,19 @@ Location:
 
     - 987 Hillview Drive, Ashland, OR 97520
 
+
 # The Ranch 
 
-<a href="https://willowwittranch.com/" target="_blank" style="font-family: 'Josefin Sans', sans-serif;">Willow Witt Ranch</a>
+The wedding reception will be held at Willow-Witt Ranch, following the ceremony at the church. 
+
+<a href="https://willowwittranch.com/" target="_blank" style="font-family: 'Lato'">Willow Witt Ranch</a>
 
 ![](/img/WillowWitt.png#venue)
 
 # Dress 
 
-We could describe the right attire for this event as "dressy-casual". One would likely benefit from a more comfortable shoe at the ranch, as the ground at Willow-Witt is uneven dirt/rocks. Willow-Witt Ranch is at 5000 ft elevation, and may be up to 10 degrees cooler than Ashland on the day, it will be the eve of fall, so maybe bring an extra layer if you run cold.
+We could describe the right attire for this event as "dressy-casual". One would likely benefit from a more comfortable shoe at the ranch, as the ground at Willow-Witt is uneven dirt/rocks. Willow-Witt Ranch is at 5000 ft elevation and may be up to 10 degrees cooler than Ashland on the day, so maybe bring an extra layer if you run cold.
+
 
 # Weather 
 
