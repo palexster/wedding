@@ -46,16 +46,12 @@ There are unlimited rustic camping spots available at Willow-Witt where you can 
 
 ## Hotels 
 
-The following hotels are in between the church and Willow-Witt, mention 'The VanCampen Wedding' for a courtesy rate. The hotels request booking least 6-weeks in advance for the discounted rate.
+The Best Western Windsor Inn is between the church and Willow-Witt, mention 'The VanCampen Wedding' for a courtesy rate. 
 
 <ul>
 <li>
 <a href="https://www.bestwestern.com/en_US/book/hotels-in-ashland/best-western-windsor-inn/propertyCode.38149.html" target="_blank" style="font-family: 'Josefin Sans', sans-serif;">Best Western Windsor Inn</a>
 </li>
-<li>
-<a href="https://ashlandhillshotel.com/" target="_blank" style="font-family: 'Josefin Sans', sans-serif;">Ashland Hills Hotel</a>
-</li>
 </ul>
-
 
 # Locations
