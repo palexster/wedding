@@ -46,7 +46,7 @@ There are unlimited rustic camping spots available at Willow-Witt where you can 
 
 ## Hotels 
 
-The Best Western Windsor Inn is between the church and Willow-Witt, mention 'The VanCampen Wedding' for a courtesy wedding rate. The phone phone number for the Best Wester Windsor Inn is 541-944-0736.
+The Best Western Windsor Inn is between the church and Willow-Witt, mention 'The VanCampen Wedding' for a courtesy wedding rate. The phone phone number for the Best Wester Windsor Inn is 541-488-2330.
 
 <ul>
 <li>
