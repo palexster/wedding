@@ -29,7 +29,7 @@ The wedding reception will be held at Willow-Witt Ranch, following the ceremony 
 
 # Dress 
 
-We could describe the right attire for this event as "dressy-casual". One would likely benefit from a more comfortable shoe at the ranch, as the ground at Willow-Witt is uneven dirt/rocks. Willow-Witt Ranch is at 5000 ft elevation and may be up to 10 degrees cooler than Ashland on the day, so maybe bring an extra layer if you run cold.
+We could describe the right attire for this event as "dressy-casual". One would likely benefit from a more comfortable shoe at the ranch, as the ground at Willow-Witt is uneven dirt and woodchips. Willow-Witt Ranch is at 5000 ft elevation and may be up to 10 degrees cooler than Ashland on the day, so maybe bring an extra layer if you run cold.
 
 
 # Weather 
@@ -53,5 +53,16 @@ The Best Western Windsor Inn is between the church and Willow-Witt, mention 'The
 <a href="https://www.bestwestern.com/en_US/book/hotels-in-ashland/best-western-windsor-inn/propertyCode.38149.html" target="_blank" style="font-family: 'Josefin Sans', sans-serif;">Best Western Windsor Inn</a>
 </li>
 </ul>
+
+# Things to do in Ashland
+
+If you find yourself wanting to explore Ashland, here is a list of fun things to do in the area.
+
+    - Go to a play at the [Oregon Shakespear Festival](https://www.osfashland.org/tickets-and-calendar?gclid=CjwKCAjw1f_pBRAEEiwApp0JKOhvdxLua26MEoZ2GP3lFalRI1D1nwkG55mcAKb9iOLVE8hfJosEiBoC53UQAvD_BwE&gclsrc=aw.ds).
+
+    - Go for a walk or hike in [Lithia Park](https://en.wikipedia.org/wiki/Lithia_Park).
+
+    - The [Grizzly Peak Hike](https://www.oregonhikers.org/field_guide/Grizzly_Peak_Hike) next to Willow-Witt is a nice hike with excellent views of the valley, and surrounding mountains.
+
 
 # Locations
