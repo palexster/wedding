@@ -58,11 +58,11 @@ The Best Western Windsor Inn is between the church and Willow-Witt, mention 'The
 
 If you find yourself wanting to explore Ashland, here is a list of fun things to do in the area.
 
-    - Go to a play at the [Oregon Shakespear Festival](https://www.osfashland.org/tickets-and-calendar?gclid=CjwKCAjw1f_pBRAEEiwApp0JKOhvdxLua26MEoZ2GP3lFalRI1D1nwkG55mcAKb9iOLVE8hfJosEiBoC53UQAvD_BwE&gclsrc=aw.ds).
+  - Go to a play at the [Oregon Shakespear Festival](https://www.osfashland.org/tickets-and-calendar?gclid=CjwKCAjw1f_pBRAEEiwApp0JKOhvdxLua26MEoZ2GP3lFalRI1D1nwkG55mcAKb9iOLVE8hfJosEiBoC53UQAvD_BwE&gclsrc=aw.ds).
 
-    - Go for a walk or hike in [Lithia Park](https://en.wikipedia.org/wiki/Lithia_Park).
+  - Go for a walk or hike in [Lithia Park](https://en.wikipedia.org/wiki/Lithia_Park).
 
-    - The [Grizzly Peak Hike](https://www.oregonhikers.org/field_guide/Grizzly_Peak_Hike) next to Willow-Witt is a nice hike with excellent views of the valley, and surrounding mountains.
+  - The [Grizzly Peak Hike](https://www.oregonhikers.org/field_guide/Grizzly_Peak_Hike) next to Willow-Witt is a nice hike with excellent views of the valley, and surrounding mountains.
 
 
 # Locations
