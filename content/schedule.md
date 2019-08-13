@@ -5,7 +5,7 @@ We are still working on a definitive schedule, but here is an outline of the flo
 ### Friday:
 
  - 6:00 - 9:00 pm 
-    - Rehearsal Dinner at the Farmhouse (willow-witt), all are welcome, please RSVP. 
+    - Rehearsal Dinner at the Farmhouse (Willow-Witt), all are welcome, please RSVP. 
 
 ### Saturday:
 
