@@ -4,18 +4,21 @@ We are still working on a definitive schedule, but here is an outline of the flo
 
 ### Friday:
 
- - 5pm 
+ - 6:00 - 9:00 pm 
     - Rehearsal Dinner at the Farmhouse (willow-witt), all are welcome, please RSVP. 
 
 ### Saturday:
 
- - 1:30 
+ - 8:30 - 9:30am 
+   - Beautiful breakfast buffet at Willow-Witt (please RSVP)
+
+ - 1:30 pm
     - Wedding ceremony at Our Lady of the Mountain Catholic Church
- - 3:30-4 
+ - 3:30-4 pm
     - Gather at Willow-Witt for appetizer and social hour
- - 5:00 
+ - 5:00 pm
     - Outdoor dinner 
- - 7:00 
+ - 7:00 pm 
     - Cake and dancing.
 
 ### Sunday: 

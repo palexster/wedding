@@ -42,7 +42,7 @@ We could describe the right attire for this event as "dressy-casual". One would 
 
 ## Camping
 
-There are unlimited rustic camping spots available at Willow-Witt where you can pitch your tent for the weekend at no cost. We have the property Friday through Sunday. There are two outdoor, heated showers and bathrooms in a central outdoor area near a large outdoor kitchen.
+There are unlimited rustic camping spots available at Willow-Witt where you can pitch your tent for the weekend at no cost. We have the property Friday through Sunday. There are two outdoor, heated showers and bathrooms in a central outdoor area near a large outdoor kitchen. 
 
 ## Hotels 
 
