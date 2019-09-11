@@ -5,7 +5,7 @@ We are still working on a definitive schedule, but here is an outline of the flo
 ### Friday:
 
  - 5:15 
-    - Wedding party rehearses at the church. 
+    - Wedding rehearsal. 
 
  - 6:30 - 9:00 pm 
     - Rehearsal Dinner at the Farmhouse (Willow-Witt), all are welcome, please RSVP. 
@@ -26,4 +26,4 @@ We are still working on a definitive schedule, but here is an outline of the flo
 ### Sunday: 
 
  - AM: 
-   - Leisurly breakfast with those that camped at the ranch. 
+   - Wedding brunch at Willow-Witt. 
