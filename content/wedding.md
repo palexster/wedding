@@ -4,7 +4,7 @@ map: true
 
 # When
 
-Friday, Sep 20 - Sunday, Sep 22 - 2019
+Friday, Sep 9 - Saturday, Sep 10 - 2022
 
 {{< add-cal >}} 
 
@@ -12,20 +12,22 @@ Please RSVP at your earliest convenience.
 
 # The Church
 
-The wedding ceremony will be at [Our Lady of the Mountain](https://ourladymt.org/) Catholic church.
+The wedding ceremony will take place at the Catholic church of 
+[San Maurizio](https://www.cittaecattedrali.it/it/bces/138-basilica-di-san-maurizio-in-pinerolo) in 
+[Pinerolo](https://en.wikipedia.org/wiki/Pinerolo).
 
 Location:
 
-    - 987 Hillview Drive, Ashland, OR 97520
+    -  Piazzale S. Maurizio 2, 10064 Pinerolo (TO), Italia
 
 
-# The Ranch 
+# The Venue 
 
-The wedding reception will be held at Willow-Witt Ranch, following the ceremony at the church. 
+The wedding reception will be held at [Tenuta Suffolk](https://www.tenutasuffolk.com/) in Roletto, following the ceremony at church. 
 
-<a href="https://willowwittranch.com/" target="_blank" style="font-family: 'Lato'">Willow Witt Ranch</a>
 
-![](/img/WillowWitt.png#venue)
+![](/img/Suffolk1.jpg)
+![](/img/Suffolk2.jpg)
 
 # Dress 
 
@@ -34,35 +36,20 @@ We could describe the right attire for this event as "dressy-casual". One would 
 
 # Weather 
 
-[Check the weather](https://www.google.com/search?safe=off&sxsrf=ACYBGNQctNFXlVW1BUTEcxUgN1mmf-Pr7A:1568165078296&q=willow+witt+%22weather%22&sa=X&ved=2ahUKEwj9oMOTzsfkAhWQnp4KHYjXC30Q5t4CMAB6BAgEEAg&cshid=1568165115438024&biw=979&bih=612) at Willow-Witt Ranch.
-
-[Check the weather](https://www.google.com/search?safe=off&ei=rCX7XLqdCqqB0wKq74Zo&q=ashland+weather&oq=ashland+weather&gs_l=psy-ab.3..0i71l8.0.0..11532...0.0..0.0.0.......0......gws-wiz.giVUzuEls_o) in Ashalnd.
+[Check the weather](https://www.google.com/search?q=pinerolo+weather&oq=pinerolo+weather&aqs=chrome..69i57j0i19i22i30l4.2686j1j7&sourceid=chrome&ie=UTF-8) in Pinerolo.
 
 # Accommodations
 
 ## Camping
 
-There are unlimited rustic camping spots available at Willow-Witt where you can pitch your tent for the weekend at no cost. We have the property Friday through Sunday. There are two outdoor, heated showers and bathrooms in a central outdoor area near a large outdoor kitchen. 
+Coming soon...
 
 ## Hotels 
 
-The Best Western Windsor Inn is between the church and Willow-Witt, mention 'The VanCampen Wedding' for a courtesy wedding rate. The phone phone number for the Best Wester Windsor Inn is 541-488-2330.
+Coming soon...
 
-<ul>
-<li>
-<a href="https://www.bestwestern.com/en_US/book/hotels-in-ashland/best-western-windsor-inn/propertyCode.38149.html" target="_blank" style="font-family: 'Josefin Sans', sans-serif;">Best Western Windsor Inn</a>
-</li>
-</ul>
+# Things to do in the area... 
 
-# Things to do in Ashland
-
-If you find yourself wanting to explore Ashland, here is a list of fun things to do in the area.
-
-  - Go to a play at the [Oregon Shakespear Festival](https://www.osfashland.org/tickets-and-calendar?gclid=CjwKCAjw1f_pBRAEEiwApp0JKOhvdxLua26MEoZ2GP3lFalRI1D1nwkG55mcAKb9iOLVE8hfJosEiBoC53UQAvD_BwE&gclsrc=aw.ds).
-
-  - Go for a walk or hike in [Lithia Park](https://en.wikipedia.org/wiki/Lithia_Park).
-
-  - The [Grizzly Peak Hike](https://www.oregonhikers.org/field_guide/Grizzly_Peak_Hike) next to Willow-Witt is a nice hike with excellent views of the valley, and surrounding mountains.
-
+Coming soon...
 
 # Locations

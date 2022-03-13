@@ -1,29 +1,19 @@
 ## The schedule 
 
-We are still working on a definitive schedule, but here is an outline of the flow of the weekend. 
+We are still working on a definitive schedule but here is a rough outlining of what you can expect. 
 
 ### Friday:
 
- - 5:15 
-    - Wedding rehearsal. 
+ - 4:00 pm
+   - Wedding ceremony 
 
- - 6:30 - 9:00 pm 
-    - Rehearsal Dinner at the Farmhouse (Willow-Witt), all are welcome, please RSVP. 
+ - From 6:00 pm on
+    - Reception, Dinner and Party at "Tenuta Suffolk"
 
 ### Saturday:
 
- - 8:30 - 9:30am 
-   - Breakfast at Willow-Witt.
- - 1:30 pm
-    - Wedding ceremony at Our Lady of the Mountain Catholic Church.
- - 3:30-4 pm
-    - Gather at Willow-Witt for appetizer and social hour.
- - 5:00 pm
-    - Outdoor dinner.
- - 7:00 pm 
-    - Cake and dancing.
-
-### Sunday: 
-
- - AM: 
-   - Wedding brunch at Willow-Witt. 
+ - Saturday morning at your own disposal
+ - 2pm  
+   - Guided tour of Turin for everybody who is interested and back on track ;-)
+ - 6:30 pm 
+   - For anyone who is still hungry a little BBQ in Villafranca at Alex' parents' place 
