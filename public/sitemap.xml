@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hannah-e-alex.it/accomodations/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://hannah-e-alex.it/registry/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://hannah-e-alex.it/schedule/</loc>
+  </url><url>
+    <loc>https://hannah-e-alex.it/wedding/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://hannah-e-alex.it/categories/</loc>
+  </url><url>
+    <loc>https://hannah-e-alex.it/tags/</loc>
+  </url><url>
+    <loc>https://hannah-e-alex.it/</loc>
+  </url>
+</urlset>

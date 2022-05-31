@@ -53,17 +53,42 @@ img[src~="venue"] {
  }
 
 .w3-container {
+  max-width: 800px;
   margin: auto;
 }
 
+.map { 
+  overflow: scroll;
+  align-content: center;
+  height: 400px;
+  position: relative;
+}
+
 .w3-content .welcome h1 {
+  font-family: 'Prata';
   font-size: 40px;
 }
 
-p, li, ul, ol, code, a {
-  font-size: 18px;
+.w3-content .welcome h2, h3, p, li, ul, ol, code, a {
+  font-family: 'Prata'
 }
 
-.mt-0 {
-  margin-top: 0 !important;
+.w3-content h1 {
+  font-family: 'Prata'; 
+  font-size: 33px
+}
+
+.w3-content h2 {
+  font-family: 'Prata'; 
+  font-size: 24px
+}
+
+.w3-content h3 {
+  font-family: 'Prata'; 
+  font-size: 20px
+}
+
+p, li, ul, ol, code, a {
+  font-family: 'Lato', serif;
+  font-size: 18px;
 }

@@ -2,12 +2,12 @@
 
 {{ partial "navbar" . }} 
 
-<div class="w3-container w3-padding-64"> 
-	<div class="w3-content w3-large">
+<div class="container gap-3">
+	<div class="d-grid gap-3">
 		{{ .Content }}
-	</div>	
+	</div>
 	{{ if .Params.map }}
-    <div class="w3-content">
+    <div class="container">
 		{{ partial "maps" . }}
 	</div>
 	{{ end }}

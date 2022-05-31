@@ -1,19 +1,20 @@
-## The schedule 
+---
+map: true
+---
 
-We are still working on a definitive schedule but here is a rough outlining of what you can expect. 
+## Friday, September 9th
 
-### Friday:
+* 4:00 pm
+  * Wedding ceremony
+* From 6:00 pm on
+  * Reception, Dinner, and Party at "Tenuta Suffolk"
 
- - 4:00 pm
-   - Wedding ceremony 
+## Saturday, September 10th
 
- - From 6:00 pm on
-    - Reception, Dinner and Party at "Tenuta Suffolk"
+* Saturday morning at your disposal
+* 2:30 pm (Meeting Point in Turin TBD)
+  * Guided tour of Turin for everybody interested and back on track ;-)
+* 6:30 pm
+  * For anyone who is still hungry, a little BBQ in Villafranca at Alex's parents' place
 
-### Saturday:
-
- - Saturday morning at your own disposal
- - 2pm  
-   - Guided tour of Turin for everybody who is interested and back on track ;-)
- - 6:30 pm 
-   - For anyone who is still hungry a little BBQ in Villafranca at Alex' parents' place 
+## Locations
