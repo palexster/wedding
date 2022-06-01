@@ -50,14 +50,14 @@ cloudFrontDistributionID = "E89UWA22XQWFA"
   name = "Accomodations"
   weight = 300
   identifier = "blog"
-  url = "/accomodations/"
+  url = "/accomodations/index.html"
 [[menu.main]]
   name = "Useful Information & Links"
   identifier = "projects"
   weight = 200
-  url = "/Wedding/"
+  url = "/Wedding/index.html"
 [[menu.main]]
   name = "Schedule & Locations"
   identifier = "resume"
   weight = 100
-  url = "/schedule/"
+  url = "/schedule/index.html"

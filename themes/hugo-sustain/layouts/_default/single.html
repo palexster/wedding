@@ -38,9 +38,11 @@
           {{ end }}
         </div>
       </div>
+      {{ if .Params.map }}
       <div class="container">
-        {{ partial "maps" . }}
-      </div>
+      {{ partial "maps" . }}
+    </div>
+    {{ end }}
     </div>
   </div>
 {{ end }}
