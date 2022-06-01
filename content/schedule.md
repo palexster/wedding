@@ -2,6 +2,10 @@
 map: true
 ---
 
+# Schedule and Locations
+
+![](/img/Pinerolo.jpg)
+
 ## Friday, September 9th
 
 * 4:00 pm

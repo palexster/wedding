@@ -7,6 +7,8 @@ Please RSVP no later than August 15th.
 
 ## The Church
 
+![](/img/SanMaurizio.jpg)
+
 The wedding ceremony will take place at the Catholic church of
 [San Maurizio](https://www.cittaecattedrali.it/it/bces/138-basilica-di-san-maurizio-in-pinerolo) in [Pinerolo](https://en.wikipedia.org/wiki/Pinerolo).
 
@@ -19,7 +21,6 @@ Location:
 The wedding reception will be held at [Tenuta Suffolk](https://www.tenutasuffolk.com/) in Roletto, following the ceremony at church.
 
 ![](/img/Suffolk1.jpg)
-![](/img/Suffolk2.jpg)
 
 ## Weather
 

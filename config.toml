@@ -3,6 +3,18 @@ languageCode = "en-us"
 title = "Wedding Website!"
 canonifyURLs = true
 relativeUrls = true
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "img/HA-2.jpg"
+  author = "Hannah & Alex"
+  description = "Hannah & Alex"
+  photo1 = "img/HA-0.jpg"
+  photo2 = "img/HA-1.jpg"
+  photo3 = "img/HA-2.jpg"
 
 [[deployment.targets]]
 name = "mydeployment"
@@ -32,3 +44,20 @@ gzip = true
 [[deployment.matchers]]
 pattern = "^.+\\.(html|xml|json)$"
 gzip = true
+
+## Main Menu
+[[menu.main]]
+  name = "Accomodations"
+  weight = 300
+  identifier = "blog"
+  url = "/accomodations/"
+[[menu.main]]
+  name = "Useful Information & Links"
+  identifier = "projects"
+  weight = 200
+  url = "/Wedding/"
+[[menu.main]]
+  name = "Schedule & Locations"
+  identifier = "resume"
+  weight = 100
+  url = "/schedule/"

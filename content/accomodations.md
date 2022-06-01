@@ -1,3 +1,6 @@
+
+---
+---
 # Accommodations
 
 There are plenty of hotels, B&Bs, camping areas, and vacation apartments in Pinerolo and its' surroundings - we've got a few of them listed here below:
